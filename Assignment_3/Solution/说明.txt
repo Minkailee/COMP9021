@@ -1,0 +1,6 @@
+需要安装python3的一个库： pip3 install pycosat
+
+cd ./Solution/Solver
+python3 slove.py
+
+enjoy!
